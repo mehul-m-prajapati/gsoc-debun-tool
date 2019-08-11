@@ -10,6 +10,11 @@
 - Draft Proposal: [Improve-Debun-tool-collected-information](https://github.com/balabit/syslog-ng/wiki/GSoC-2019-Proposal%3A-Improve-Debun-tool-collected-information-%28Mehul-Prajapati%29)
 
 ### Tasks
-- Save the active config : [PR #2752](https://github.com/balabit/syslog-ng/pull/2752)
-- find properties files listed in syslog-ng config: [PR #2782](https://github.com/balabit/syslog-ng/pull/2782)
-- Create a new type for file path into grammar search: [PR #2797](https://github.com/balabit/syslog-ng/pull/2797)
+|No.|Description|PR|
+|:---|:---|:---|
+|1| Save the active config | [PR #2752](https://github.com/balabit/syslog-ng/pull/2752)|
+|2| find properties files listed in syslog-ng config | [PR #2782](https://github.com/balabit/syslog-ng/pull/2782)|
+|3| Create a new type for file path into grammar search | [PR #2797](https://github.com/balabit/syslog-ng/pull/2797)|
+|4| Collect internal logs with possibly higher log level | [PR #2840](https://github.com/balabit/syslog-ng/pull/2840)|
+|5| syslog-ng-ctl: new command list-files to fetch files from configuration | [PR #2797](https://github.com/balabit/syslog-ng/pull/2797)|
+|6| Debun: Collect all files in config which have absolute path | WIP |
