@@ -10,8 +10,12 @@
 - Draft Proposal: [Improve-Debun-tool-collected-information](https://github.com/balabit/syslog-ng/wiki/GSoC-2019-Proposal%3A-Improve-Debun-tool-collected-information-%28Mehul-Prajapati%29)
 
 
-## Project overview
-The syslog-ng-debun tool collects and saves information about your syslog-ng OSE installation, making troubleshooting easier. The goal of this project is to improve the current debun tool by adding new features and developing tests of newly added features.
+### Project overview
+Syslog-ng is a highly scalable logging application, which is used collect logs fromvarious sources (such as applications, files) on a centralized log server and allows to process them with parsers, filters, and specialized modules before saving/sending them. The syslog-ng-debun tool is distributed with the syslog-ng OSE application.
+
+
+### Project Abstract
+The syslog-ng-debun tool collects and saves information about your syslog-ng OSE installation, making troubleshooting easier, especially if anyone is concerned about syslog-ng OSE related issues. The goal of this project is to improve the current debun tool by adding new features and developing tests.
 
 
 ### Tasks
