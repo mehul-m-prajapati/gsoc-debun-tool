@@ -9,6 +9,11 @@
 - Mentor: [Kókai Péter](https://github.com/Kokan)
 - Draft Proposal: [Improve-Debun-tool-collected-information](https://github.com/balabit/syslog-ng/wiki/GSoC-2019-Proposal%3A-Improve-Debun-tool-collected-information-%28Mehul-Prajapati%29)
 
+
+## Project overview
+The syslog-ng-debun tool collects and saves information about your syslog-ng OSE installation, making troubleshooting easier. The goal of this project is to improve the current debun tool by adding new features and developing tests of newly added features.
+
+
 ### Tasks
 |No.|Description|PR|
 |:---|:---|:---|
